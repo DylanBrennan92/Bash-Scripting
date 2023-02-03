@@ -21,3 +21,4 @@ done
 
 
 echo "Folders & files created and file permissions edited for files ending in _1 and _3"
+echo "Job Completed"
