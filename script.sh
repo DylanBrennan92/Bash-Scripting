@@ -9,6 +9,10 @@ do
     touch "$filename"
     done
     cd ..
+    rm -rf folder"$x"
+    echo "deleted folder"$x
 done
 
-echo "Folders & files created"
+
+
+echo "Folders & files created and then deleted"
